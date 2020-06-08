@@ -18,6 +18,9 @@ you might not want. Indicate directories by ending the name with a `/`.
 -->
 @def ignore = ["node_modules/", "franklin", "franklin.pub"]
 
+@def prepath= "DistillTemplateForFranklin"
+@def div_content = "d-article"
+
 <!--
 Add here global latex commands to use throughout your
 pages. It can be math commands but does not need to be.
